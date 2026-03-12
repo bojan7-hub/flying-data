@@ -1,0 +1,16 @@
+# Air Pollution Project Skopje
+
+## Overview
+This project analyzes air pollution data for multiple locations in Skopje, using CSV datasets for different pollutants (CO, NO2, O3, PM10, PM2.5). The analysis includes:
+
+- Data cleaning and preprocessing  
+- Extraction of year, month, day, and hour from timestamps  
+- Handling missing values with mean imputation  
+- Aggregation of pollution data by hour, day, month, and year  
+- Visualization of pollution trends using bar charts and scatter plots  
+- Identification of peak and lowest pollution periods  
+- Comparison across multiple locations  
+
+The project is implemented using **Python (pandas, numpy, matplotlib)**
+
+---
