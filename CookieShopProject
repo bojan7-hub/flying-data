@@ -1,0 +1,29 @@
+This project presents an interactive Power BI dashboard built for a demo cookie company to analyze and visualize business performance across multiple dimensions, including locations, stores, and customers.
+The goal of this dashboard is to provide actionable insights into sales trends, customer behavior, and store performance using advanced data modeling and DAX calculations.
+
+
+FEATURES
+
+Location Analysis – Compare sales performance across different regions
+
+Store Performance – Track KPIs for individual stores/ locations
+
+Customer Insights – Understand purchasing behavior and segmentation
+
+Sales Trends – Monitor revenue over time with dynamic visuals
+
+DAX Measures – Custom calculations for KPIs and business metrics
+
+Interactive Filters – Drill down by date, location, and customer segments
+
+
+
+TOOLS & TECHNOLOGIES
+
+Power BI 
+
+DAX (Data Analysis Expressions)
+
+Data Modeling (relationships, star schema design)
+
+Data Cleaning & Transformation (Power Query)
