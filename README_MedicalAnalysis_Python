@@ -1,0 +1,63 @@
+MEDICAL DATA ANALYSIS WITH PYTHON
+
+
+This project focuses on processing, cleaning, analyzing, and visualizing medical data using Python. The goal is to extract meaningful insights from patient records and support data-driven understanding of health conditions such as diabetes, blood metrics, and therapy effectiveness.
+
+The project demonstrates a full data pipeline:
+
+Data insertion & loading
+
+Data cleaning & preprocessing
+
+Exploratory data analysis (EDA)
+
+Statistical insights
+
+Data visualization
+
+
+FEATURES
+
+Import and manage patient datasets
+
+Clean missing, inconsistent, or noisy data
+
+Analyze medical indicators (glucose, hemoglobin, etc.)
+
+Visualize trends and comparisons
+
+Extract insights based on disease duration, condition, and therapy type
+
+
+TECHNOLOGIES USED
+
+-Python 3.x
+
+-pandas
+
+-numpy
+
+-matplotlib / seaborn
+
+-Jupyter Notebook
+
+
+EXAMPLE ANALYSIS 
+
+Diabetes & Glucose Levels
+
+- Analyze average glucose levels in patients diagnosed with diabetes
+
+- Filter by duration of the disease, type of therapy, glucose or hemoglobin A1C
+
+- Identify trends and potential risk patterns
+
+- Compare diabetic retinopathy in patients with different kind of therapy
+
+DISCLAIMER
+
+This project is for educational and analytical purposes only.
+It does not provide medical advice or replace professional healthcare evaluation.
+
+
+
